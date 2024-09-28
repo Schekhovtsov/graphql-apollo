@@ -13,6 +13,7 @@ body {
     text-align: center;
     flex-direction: column;
     justify-content: center;
+    gap: 15px;
 }
 
 .content h1 {
